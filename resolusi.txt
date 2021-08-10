@@ -1,0 +1,3 @@
+- Studying git
+- Studying ML Leployment to web using flask + heroku
+- studying image processing
