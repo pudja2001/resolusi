@@ -2,4 +2,4 @@
 - Studying ML Leployment to web using flask + heroku
 - Studying image processing
 - complete Google Data Analytics course certification
-- stuying SQL and Tableau
+- stuying SQL and Tableau (in youtube or coursera)
